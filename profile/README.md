@@ -25,7 +25,14 @@
 - 환자 가족 내 커뮤니티 기능을 통해 가족 간의 유대감 강화를 독려
 - 업로드한 가족 사진을 환자 맞춤형 문제에 활용하여 기억회상 프로그램 제공
 ```
+
+[구글 플레이 앱 다운로드](https://play.google.com/store/apps/details?id=com.brainvitamin)
+
 [두뇌비타민 사이트](https://brain-vitamin.vercel.app)
+
+[앱 소개 영상](https://youtu.be/Lhb-5OUzXjg)
+
+[앱 이용 매뉴얼](https://global-exhaust-9bd.notion.site/9e54dc0a153f46d98cf2adaae4ddd434)
 
 ## 팀원 구성
 
